@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrenCon</string>
+    <string name="inr">INR</string>
+    <string name="usd">USD</string>
+    <string name="hint">Enter your BDT amount</string>
+    <string name="antxt">Answer</string>
+</resources>
